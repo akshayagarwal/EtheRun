@@ -1,4 +1,4 @@
-CodeRunner
+EtheRun
 ==========
 
 A collection of bookmarklets that lets you run code written in Etherpad with just 1-click!
